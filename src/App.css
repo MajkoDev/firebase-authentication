@@ -1,0 +1,23 @@
+h4 {
+  font-weight: 500;
+}
+
+span {
+  font-weight: 700;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 2px;
+}
